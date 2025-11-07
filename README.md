@@ -12,7 +12,8 @@ In order to build a jar file to run, 2 ways can apply:
   * Unzip .zip file into your local machine
   * Open Intellij IDE to open pom.xml under unziped folder as project
   * Open Maven Tool Window from right side, and expand "Lifecycle", then click build
-  * After completed, you can run it in command with built .jar file named TradeTaxCalculationService.jar in command line using command: java -jar TradeTaxCalculationService
+  * After completed, you can run it in command with built .jar file named TradeTaxCalculationService.jar in command line using command:
+    "java -jar TradeTaxCalculationService"
   * Or run in Intellij IDE
 
 2. Clone project from Github - git clone https://github.com/MichaelZhangGuanXong/TradeTaxCalculationServive.git, then doing samething like in way 1
